@@ -9,5 +9,25 @@ Paste a directory structure and files and each editor edits the corresponding fi
 
  * Maybe can associate an area of a project with a list of files and switch between source sets?
 
-![Bubble back grouping](https://raw.github.com/samsquire/interface-experiments/master/multifile.png "Bubble back grouping")
+![Multifile blank](https://raw.github.com/samsquire/interface-experiments/master/multifile.png "Multi file blank")
+
+Pointed at a directory index:
+
+![Multifile blank](https://raw.github.com/samsquire/interface-experiments/master/multifile-files.png "Multiple files in a directory index")
+
+# 2. Spiral Site
+
+'Scroll down' a webpage as if it were a spiral.
+
+This is a spiral that you can scroll down:
+
+http://jsfiddle.net/PRwDa/14/embedded/result/
+
+Now each block can be spaced apart more and be a post on the webpage. At any given point only one post should be visible but posts should be visible in the background. When the user scrolls, the next one comes into view. If the user clicks the post in the distance, it will scroll into view.
+
+![Spiral scroll](https://raw.github.com/samsquire/interface-experiments/master/spiral-scroll.png "Scrolling down a spiral")
+
+![Spiral scroll 1](https://raw.github.com/samsquire/interface-experiments/master/spiral-site-1.png "Scrolling down a spiral 1")
+
+![Spiral scroll 2](https://raw.github.com/samsquire/interface-experiments/master/spiral-site-2.png "Scrolling down a spiral 2")
 
