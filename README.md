@@ -31,3 +31,18 @@ Now each block can be spaced apart more and be a post on the webpage. At any giv
 
 ![Spiral scroll 2](https://raw.github.com/samsquire/interface-experiments/master/spiral-site-2.png "Scrolling down a spiral 2")
 
+# 3. Widgets Are text
+
+Complex widgets on the screen can be converted into text for customization. Widgets can be represented by simple text formats and be piped together.
+
+![As a regular table](https://raw.github.com/samsquire/interface-experiments/master/astable.png "Regular table")
+
+![As text](https://raw.github.com/samsquire/interface-experiments/master/astext.png "As text")
+
+Simple text formats can be created for:
+
+ * progess bars
+ * trees
+ * tabs
+ * menus, menubars, toolbars
+
