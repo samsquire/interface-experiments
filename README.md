@@ -46,3 +46,9 @@ Simple text formats can be created for:
  * tabs
  * menus, menubars, toolbars
 
+# 4. Nested Documents
+
+This is a mockup of the user interface described in this [living documents](http://samsquire.github.io/livingdocuments/) article.
+
+![Living Documents #1](https://raw.github.com/samsquire/interface-experiments/master/living_document_workflow.png "Living document workflow 1")
+![Living Documents #2](https://raw.github.com/samsquire/interface-experiments/master/living_document_workflow_2.png "Living document workflow 2")
