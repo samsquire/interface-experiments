@@ -57,7 +57,7 @@ This is a mockup of the user interface described in this [living documents](http
 
 # 5. Transpose Interface
 
-When presenting large pieces of information it may be desirable to change the prioritized or focal point of the information being displayed without hiding or obfuscating it. Transpose interface allows the user to change the orientation of content that it scrolls in a different way without losing access to it. In the following examples, there are two large documents. The user can read them one at a time by scrolling vertically like a conventional interface. Alternatively, they can choose to display both side by side by transposing the orientation from vertical to horizontal. They can now view the content by scrolling horizontally.
+When presenting large pieces of information it may be desirable to change the prioritized or focal point of the information being displayed without hiding or obfuscating it. Transpose interface allows the user to change the orientation of content so that it scrolls in a different way without losing access to it. In the following examples, there are two large documents. The user can read them one at a time by scrolling vertically like a conventional interface. Alternatively, they can choose to display both side by side by transposing the orientation from vertical to horizontal. They can now view the content by scrolling horizontally.
 
 ![Regular interface](https://raw.github.com/samsquire/interface-experiments/master/transpose_doc.png "Regular interface")
 
